@@ -1,4 +1,4 @@
-# Neural Machine Translation Studio
+# Language Translator Tool
 
 An attractive, interactive, and highly responsive single-page web application built to fulfill **Task 1 (Language Translation Tool)** for the CodeAlpha AI Model Development Internship.
 
